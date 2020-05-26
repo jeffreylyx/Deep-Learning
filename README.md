@@ -8,4 +8,5 @@ Deep-Learning
 
 ----------------------------
 
-## 激活函数
+### 激活函数
+[激活函数比较](https://www.cnblogs.com/missidiot/p/9378079.html)
